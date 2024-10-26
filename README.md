@@ -1,12 +1,10 @@
-# 👋 Olá, eu sou [Seu Nome]!
+# 👋 Olá, eu sou Daniel Pacheco!
 
-Bem-vindo ao meu perfil GitHub! Sou estudante de **Cybersegurança** com um forte interesse em [áreas específicas, como segurança de redes, análise forense, etc.]. Gosto de explorar novas tecnologias, aprender continuamente, e compartilhar meus conhecimentos por meio de projetos práticos.
+Bem-vindo ao meu perfil GitHub! Sou estudante de **Cybersegurança** com um forte interesse em Blue Team, análise de malware e SIEM. Gosto de explorar novas tecnologias, aprender continuamente, e compartilhar meus conhecimentos por meio de projetos práticos.
 
 ## 🚀 Sobre Mim
-- 🎓 Atualmente estou estudando [nome do curso, certificações em andamento, etc.].
-- 👨‍💻 Estou trabalhando em projetos de **Cybersegurança** e **Sistemas Linux**.
-- 📖 Atualmente estou aprendendo sobre [tecnologias ou temas específicos].
-- 💬 Me pergunte sobre: Linux, scripts Bash, análise de vulnerabilidades, etc.
+- 🎓 Atualmente estou estudando Segurança Cibernética [SENAC].
+- 📖 Atualmente estou aprendendo sobre Ethical Hacking, criptografia e dispositivos de rede.
 - 🌱 Interesses futuros: [Ferramentas específicas, outras áreas de especialização]
 
 ## 🛠️ Tecnologias e Ferramentas
@@ -19,16 +17,18 @@ Bem-vindo ao meu perfil GitHub! Sou estudante de **Cybersegurança** com um fort
 ## 🌟 Projetos em Destaque
 Aqui estão alguns dos meus projetos que você pode achar interessantes:
 
+<!-- 
 - 🔒 **[Projeto 1](link_do_projeto)**: Análise de Vulnerabilidades em Ambientes Linux – Ferramenta personalizada para identificar e categorizar vulnerabilidades.
 - 🔐 **[Projeto 2](link_do_projeto)**: Sistema de Monitoramento de Segurança para Redes – Monitoramento de atividades suspeitas e prevenção de intrusões.
 - 🛡️ **[Projeto 3](link_do_projeto)**: Scripts de Automação para Segurança no Linux – Conjunto de scripts para aumentar a segurança em servidores Linux.
+-->
 
 ## 📈 Estatísticas do GitHub
 ![Estatísticas do GitHub de Seu Nome](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&hide_title=true&theme=radical)
 
 ## 📫 Entre em Contato
-- [LinkedIn](link_do_linkedin)
-- [Twitter](link_do_twitter)
-- Email: seuemail@example.com
+- [LinkedIn](https://www.linkedin.com/in/daniel-pacheco-vieira-cysec/)
+- [Discord](o.homem_macaco)
+- [Email] (dpv_danpacheco@protonmail.com)
 
 Obrigado pela visita! Sinta-se à vontade para explorar meus projetos e dar sugestões ou contribuições. 😊
