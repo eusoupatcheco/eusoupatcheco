@@ -5,7 +5,7 @@ Bem-vindo ao meu perfil GitHub! Sou estudante de **Cybersegurança** com um fort
 ## 🚀 Sobre Mim
 - 🎓 Atualmente estou estudando Segurança Cibernética [SENAC].
 - 📖 Atualmente estou aprendendo sobre Ethical Hacking, criptografia e dispositivos de rede.
-- 🌱 Interesses futuros: [Ferramentas específicas, outras áreas de especialização]
+- 🌱 Interesses futuros: HTB Certified Defense Security Analyst
 
 ## 🛠️ Tecnologias e Ferramentas
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
@@ -29,6 +29,6 @@ Aqui estão alguns dos meus projetos que você pode achar interessantes:
 ## 📫 Entre em Contato
 - [LinkedIn](https://www.linkedin.com/in/daniel-pacheco-vieira-cysec/)
 - [Discord](o.homem_macaco)
-- [Email] (dpv_danpacheco@protonmail.com)
+- [Email](dpv_danpacheco@protonmail.com)
 
 Obrigado pela visita! Sinta-se à vontade para explorar meus projetos e dar sugestões ou contribuições. 😊
