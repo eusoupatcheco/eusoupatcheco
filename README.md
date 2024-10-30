@@ -25,6 +25,8 @@ Aqui estão alguns dos meus projetos que você pode achar interessantes:
 
 ## 📈 Estatísticas do GitHub
 ![Estatísticas do GitHub de Seu Nome](https://github-readme-stats.vercel.app/api?username=eusoupatcheco&show_icons=true&hide_title=true&theme=radical)
+## 🚀 Linguagens Mais Usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eusoupatcheco&layout=compact)
 
 ## 📫 Entre em Contato
 - [LinkedIn](https://www.linkedin.com/in/daniel-pacheco-vieira-cysec/)
