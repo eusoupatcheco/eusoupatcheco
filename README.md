@@ -16,10 +16,9 @@ Bem-vindo ao meu perfil GitHub! Sou estudante de **Cybersegurança** com um fort
 
 ## 🌟 Projetos em Destaque
 Aqui estão alguns dos meus projetos que você pode achar interessantes:
-https://eusoupatcheco.github.io/npem-landingpage/
 
+- 🔒 **[Landingpage](https://eusoupatcheco.github.io/npem-landingpage/)**: Landingpage criada com o framework React, usei algumas libs como social-icon e slide(carousel).
 <!-- 
-- 🔒 **[Projeto 1](link_do_projeto)**: Análise de Vulnerabilidades em Ambientes Linux – Ferramenta personalizada para identificar e categorizar vulnerabilidades.
 - 🔐 **[Projeto 2](link_do_projeto)**: Sistema de Monitoramento de Segurança para Redes – Monitoramento de atividades suspeitas e prevenção de intrusões.
 - 🛡️ **[Projeto 3](link_do_projeto)**: Scripts de Automação para Segurança no Linux – Conjunto de scripts para aumentar a segurança em servidores Linux.
 -->
