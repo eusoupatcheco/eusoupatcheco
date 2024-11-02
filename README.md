@@ -1,11 +1,11 @@
 # 👋 Olá, eu sou Daniel Pacheco!
 
-Bem-vindo ao meu perfil GitHub! Sou estudante de **Cybersegurança** com um forte interesse em Blue Team, análise de malware e SIEM. Gosto de explorar novas tecnologias, aprender continuamente, e compartilhar meus conhecimentos por meio de projetos práticos.
+Bem-vindo ao meu perfil GitHub! Sou estudante de **Cibersegurança** e tenho interesse no BlueTeam (SOC Analyst). Gosto de explorar novas tecnologias, aprender continuamente, e compartilhar meus conhecimentos por meio de projetos práticos.
 
 ## 🚀 Sobre Mim
-- 🎓 Atualmente estou estudando Segurança Cibernética [SENAC].
+- 🎓 Atualmente estou estudando o 3ºS de Segurança Cibernética [SENAC].
 - 📖 Atualmente estou aprendendo sobre Ethical Hacking, criptografia e dispositivos de rede.
-- 🌱 Interesses futuros: HTB Certified Defense Security Analyst
+- 🌱 Também estou estudando o path SOC Analyst do HTB para a certificação CDSA.
 
 ## 🛠️ Tecnologias e Ferramentas
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
@@ -17,8 +17,9 @@ Bem-vindo ao meu perfil GitHub! Sou estudante de **Cybersegurança** com um fort
 ## 🌟 Projetos em Destaque
 Aqui estão alguns dos meus projetos que você pode achar interessantes:
 
-- 🔒 **[Landingpage](https://eusoupatcheco.github.io/npem-landingpage/)**: Landingpage criada com o framework React, usei algumas libs como social-icon e slide(carousel).
+- ainda não há nada aqui.
 <!-- 
+- 🔒 **[Landingpage](https://eusoupatcheco.github.io/npem-landingpage/)**: Landingpage criada com o framework React, usei algumas libs como social-icon e slide(carousel).
 - 🔐 **[Projeto 2](link_do_projeto)**: Sistema de Monitoramento de Segurança para Redes – Monitoramento de atividades suspeitas e prevenção de intrusões.
 - 🛡️ **[Projeto 3](link_do_projeto)**: Scripts de Automação para Segurança no Linux – Conjunto de scripts para aumentar a segurança em servidores Linux.
 -->
